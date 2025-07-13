@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my web dev + DSA skills**
 
-- 🌱 I’m currently learning **Java, Python, React.js, Next.js, Selenium, and Rest Assured**
+- 🌱 I’m currently learning **Java, Python, Kotlin, React.js, Next.js, Selenium, and Rest Assured**
 
 - 👯 I’m looking to collaborate on **Open Source and Frontend Projects**
 
