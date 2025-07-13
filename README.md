@@ -35,7 +35,7 @@
 ---
 
 ### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/avinashkrmandal](https://www.linkedin.com/in/avinash-kr-mandal-91569231a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-kr-mandal-91569231a/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23f48225.svg?style=for-the-badge&logo=web&logoColor=white)](#)
 
