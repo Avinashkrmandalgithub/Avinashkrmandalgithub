@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Avinash Kr Mandal</h1>
-<h3 align="center">Aspiring Software Engineer | Frontend Developer | Passionate Learner</h3>
+<h3 align="center">Aspiring Software Engineer | FullStack Developer | Passionate Learner</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a4ca58b9025c1a1e74015b2661.gif" />
 
 - 🔭 I’m currently working on **my web dev + DSA skills**
 
-- 🌱 I’m currently learning **Java, React.js, Next.js, Selenium, and Rest Assured**
+- 🌱 I’m currently learning **Java, Python, React.js, Next.js, Selenium, and Rest Assured**
 
 - 👯 I’m looking to collaborate on **Open Source and Frontend Projects**
 
@@ -35,7 +35,7 @@
 ---
 
 ### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avinashkrmandal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/avinashkrmandal](https://www.linkedin.com/in/avinash-kr-mandal-91569231a/))
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23f48225.svg?style=for-the-badge&logo=web&logoColor=white)](#)
 
