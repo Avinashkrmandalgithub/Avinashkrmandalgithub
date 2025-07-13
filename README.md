@@ -42,8 +42,7 @@
 ---
 
 ### ✨ GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=avinashkrmandal&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?avinashkrmandalgithub=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### 💬 Fun Fact About Me
