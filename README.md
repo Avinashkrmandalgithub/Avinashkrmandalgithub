@@ -9,33 +9,50 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **Web Dev Projects** and leveling up **DSA skills**
-- 🌱 Learning: `Java`, `Python`, `Kotlin`, `React`, `Next.js`, `Selenium`, `Rest Assured`
-- 🤝 Open to collaborating on **Open Source** and **Frontend Projects**
-- 🎯 Goal: Crack a job at a **Top MNC** before graduation
-- ✍️ Blogging soon on [My Blog](#) *(Coming soon!)*
-- ☕ Fun Fact: _I debug faster with chai!_
+I'm a passionate and curious FullStack developer currently pursuing my BCA. I love building digital solutions and constantly explore new technologies. Right now, I'm focused on strengthening my skills in Data Structures & Algorithms, mastering full-stack web development, and diving into backend automation with tools like Selenium and Rest Assured.
+
+- 💻 Currently sharpening my **Web Development** & **DSA** skills  
+- 🌱 Learning: `Java`, `Python`, `Kotlin`, `React`, `Next.js`, `Selenium`, `Rest Assured`  
+- 🤝 Open to **Open Source** and **Frontend Collaboration**  
+- 🎯 Mission: Land a role at a **top MNC** before graduation  
+- ✍️ Blogging soon on [My Blog](#) *(Coming soon)*  
+- ☕ _“Code. Chai. Repeat.”_
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 💻 Languages  
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+<table align="center">
+<tr>
+  <td align="center" colspan="4"><strong>Languages</strong></td>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" /></td>
+  <td><img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
+  <td><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
+  <td><img src="https://img.shields.io/badge/Kotlin-%230095D5?style=for-the-badge&logo=kotlin&logoColor=white" /></td>
+</tr>
 
-#### 🌐 Frontend  
-![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<tr>
+  <td align="center" colspan="4"><strong>Frontend</strong></td>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB" /></td>
+  <td><img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" /></td>
+  <td><img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></td>
+  <td></td>
+</tr>
 
-#### 🗄️ Backend & Tools  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)  
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<tr>
+  <td align="center" colspan="4"><strong>Backend & Tools</strong></td>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></td>
+  <td><img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
+  <td><img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" /></td>
+  <td><img src="https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></td>
+</tr>
+</table>
 
 ---
 
@@ -67,7 +84,7 @@
   <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://avinashdev-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23f48225.svg?style=for-the-badge&logo=web&logoColor=white" />
   </a>
 </p>
@@ -82,6 +99,6 @@
 
 ### 💬 Fun Fact
 
-> Built a working CRUD app using only YouTube + Chai — no StackOverflow!
+> I once solved a critical bug at 2 AM — powered only by stack traces and a strong cup of chai. ☕🚀
 
 ---
