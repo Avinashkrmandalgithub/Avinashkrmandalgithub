@@ -1,5 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Avinash Kr Mandal</h1>
-<h3 align="center">💻 Aspiring Software Engineer | 🌐 FullStack Developer | 🔁 Passionate Learner</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=💻+Aspiring+Software+Engineer;🌐+FullStack+Developer;🔁+Passionate+Learner" alt="Typing SVG" />
+</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a4ca58b9025c1a1e74015b2661.gif" width="300" />
@@ -8,6 +10,8 @@
 ---
 
 ### 🚀 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" />
 
 I'm a passionate and curious FullStack developer currently pursuing my BCA. I love building digital solutions and constantly explore new technologies. Right now, I'm focused on strengthening my skills in Data Structures & Algorithms, mastering full-stack web development, and diving into backend automation with tools like Selenium and Rest Assured.
 
@@ -95,10 +99,43 @@ I'm a passionate and curious FullStack developer currently pursuing my BCA. I lo
 
 > _“Stay hungry, stay foolish.”_ — **Steve Jobs**
 
+<!-- All previous content remains the same -->
+
 ---
 
 ### 💬 Fun Fact
 
-> I once solved a critical bug at 2 AM — powered only by stack traces and a strong cup of chai. ☕🚀
+> Debugged my first full-stack app while sipping chai and watching tutorial videos at 1.5x speed — and it actually worked! ☕💻🔥
 
 ---
+
+### 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=avinashkrmandalgithub&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🌗 Light / Dark Mode Aware Stats
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=avinashkrmandalgithub&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=avinashkrmandalgithub&show_icons=true&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=avinashkrmandalgithub&show_icons=true" alt="GitHub Stats" />
+  </picture>
+</p>
+
+---
+
+### 📍 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=avinashkrmandalgithub&label=Visitors&color=brightgreen&style=for-the-badge" alt="visitor badge"/>
+</p>
+
