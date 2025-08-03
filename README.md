@@ -11,18 +11,34 @@
 
 ### 🚀 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" />
+<table>
+  <tr>
+    <td>
+      <p>
+        👋 I'm <strong>Avinash Kr Mandal</strong>, a curious Full Stack Developer passionate about building interactive and scalable web apps.<br><br>
+        🧠 Currently diving deep into <code>DSA</code>, <code>Java</code>, and full-stack magic with <code>React</code>, <code>Next.js</code>, and <code>Node.js</code>.
+      </p>
+    </td>
+    <td width="270">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
-I'm a passionate and curious FullStack developer currently pursuing my BCA. I love building digital solutions and constantly explore new technologies. Right now, I'm focused on strengthening my skills in Data Structures & Algorithms, mastering full-stack web development, and diving into backend automation with tools like Selenium and Rest Assured.
 
-- 💻 Currently sharpening my **Web Development** & **DSA** skills  
-- 🌱 Learning: `Java`, `Python`, `Kotlin`, `React`, `Next.js`, `Selenium`, `Rest Assured`  
-- 🤝 Open to **Open Source** and **Frontend Collaboration**  
-- 🎯 Mission: Land a role at a **top MNC** before graduation  
-- ✍️ Blogging soon on [My Blog](#) *(Coming soon)*  
-- ☕ _“Code. Chai. Repeat.”_
+
+### 👨‍🔬 What I’m Up To:
+- 🚧 Sharpening my skills in **Data Structures & Algorithms**
+- 🛠 Building full-stack projects using `React`, `Next.js`, `Node.js`, and `MongoDB`
+- 🔬 Automating with `Selenium` & `Rest Assured`
+- ✍️ Starting a tech blog soon — [Stay tuned!](#)
 
 ---
+
+### 📌 Motto:
+> _"Code. Chai. Repeat."_ 🧠☕🔁
+
+
 
 ### 🛠️ Tech Stack
 
