@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=💻+Aspiring+Software+Engineer;🌐+FullStack+Developer;🔁+Passionate+Learner" alt="Typing SVG" />
 </h3>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a4ca58b9025c1a1e74015b2661.gif" width="300" />
-</p>
-
 ---
 
 ### 🚀 About Me
