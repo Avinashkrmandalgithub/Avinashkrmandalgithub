@@ -21,7 +21,7 @@
   </tr>
 </table>
 
-
+---
 
 ### 👨‍🔬 What I’m Up To:
 - 🚧 Sharpening my skills in **Data Structures & Algorithms**
@@ -34,7 +34,7 @@
 ### 📌 Motto:
 > _"Code. Chai. Repeat."_ 🧠☕🔁
 
-
+---
 
 ### 🛠️ Tech Stack
 
@@ -72,18 +72,42 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinashkrmandalgithub&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkrmandalgithub&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=avinashkrmandalgithub&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=avinashkrmandalgithub&theme=tokyonight&row=1&margin-w=15&no-frame=true" />
+</p>
+
+---
+
+### 📊 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkrmandalgithub&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 📈 GitHub Stats (Auto Light/Dark)
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=avinashkrmandalgithub&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=avinashkrmandalgithub&show_icons=true&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=avinashkrmandalgithub&show_icons=true" alt="GitHub Stats" />
+  </picture>
 </p>
 
 ---
@@ -111,8 +135,6 @@
 
 > _“Stay hungry, stay foolish.”_ — **Steve Jobs**
 
-<!-- All previous content remains the same -->
-
 ---
 
 ### 💬 Fun Fact
@@ -121,33 +143,8 @@
 
 ---
 
-### 🔥 GitHub Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=avinashkrmandalgithub&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-</p>
-
----
-
-### 🌗 Light / Dark Mode Aware Stats
-
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=avinashkrmandalgithub&show_icons=true&theme=tokyonight"
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=avinashkrmandalgithub&show_icons=true&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=avinashkrmandalgithub&show_icons=true" alt="GitHub Stats" />
-  </picture>
-</p>
-
----
-
 ### 📍 Visitor Counter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=avinashkrmandalgithub&label=Visitors&color=brightgreen&style=for-the-badge" alt="visitor badge"/>
 </p>
-
