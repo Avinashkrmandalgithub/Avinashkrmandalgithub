@@ -100,6 +100,14 @@
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinashkrmandalgithub&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
 ### 🌐 Connect with Me
 
 <p align="center">
