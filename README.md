@@ -22,14 +22,6 @@
 **Backend & Tools**  
 `Node.js` · `MongoDB` · `Git` · `VS Code`
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Avinashkrmandalgithub&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashkrmandalgithub&layout=compact&theme=tokyonight" width="48%" />
-</p>
 
 ---
 
