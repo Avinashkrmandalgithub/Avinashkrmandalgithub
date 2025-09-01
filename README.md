@@ -14,13 +14,13 @@
 ### 🛠️ Tech Stack
 
 **Languages**  
-`Java` · `Python` · `JavaScript` · `Kotlin`
+`Java` · `Python` · `JavaScript` · `Kotlin` . `C` . `C++`
 
 **Frontend**  
-`React` · `Next.js` · `Tailwind CSS`
+`React.js` · `Next.js` · `Tailwind CSS` . `HTML` 
 
 **Backend & Tools**  
-`Node.js` · `MongoDB` · `Git` · `VS Code`
+`Node.js` · `MongoDB` · `Git` · `VS Code` . `Postman`
 
 
 ---
