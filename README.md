@@ -27,7 +27,17 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://leetcode.com/u/avinashkrmandal/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/avinash-kr-mandal-91569231a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://avinashdev-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23f48225.svg?style=for-the-badge&logo=web&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/avinashkrmandal/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/avinash-kr-mandal-91569231a/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://avinashdev-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23f48225.svg?style=for-the-badge&logo=web&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/avinashkrmandal1">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
 </p>
+
