@@ -17,10 +17,10 @@
 `Java` · `Python` · `JavaScript` · `Kotlin` . `C` . `C++`
 
 **Frontend**  
-`React.js` · `Next.js` · `Tailwind CSS` . `HTML` 
+`React.js` · `Next.js` · `Tailwind CSS` . `HTML` . `CSS` . `JavaScript`
 
 **Backend & Tools**  
-`Node.js` · `MongoDB` · `Git` · `VS Code` . `Postman`
+`Node.js` · `MongoDB` · `Git` · `VS Code` . `Postman` . `Express` . `Zustand`
 
 
 ---
