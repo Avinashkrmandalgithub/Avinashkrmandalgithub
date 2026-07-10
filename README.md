@@ -27,7 +27,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://leetcode.com/u/avinashkrmandal/">
+  <a href="https://leetcode.com/u//">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/avinash-kr-mandal-91569231a/">
