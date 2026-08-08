@@ -30,7 +30,7 @@
   <a href="https://leetcode.com/u//">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.linkedin.com/in/avinash-kr-mandal-91569231a/">
+  <a href="https://www.linkedin.com/in/avinash-mandal-91569231a/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://avinashdev-portfolio.netlify.app/">
