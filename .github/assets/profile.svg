@@ -1,5 +1,5 @@
 
-<!-- AVINASH MANDAL | GitHub Profile | Generated 2026-10-05T09:06:44.965Z -->
+<!-- AVINASH MANDAL | GitHub Profile | Generated 2026-10-05T09:26:27.431Z -->
 
 <svg
   xmlns="http://www.w3.org/2000/svg"
@@ -332,235 +332,235 @@
   
         <circle
           class="particle"
-          cx="118"
-          cy="1144"
-          r="0.9"
+          cx="271"
+          cy="898"
+          r="0.5"
           fill="#7ee7ff"
           style="
-            --dur:9.5s;
-            --peak:0.26;
-            animation-delay:10.6s;
+            --dur:5.9s;
+            --peak:0.40;
+            animation-delay:0.6s;
           "
         />
       
         <circle
           class="particle"
-          cx="35"
-          cy="602"
-          r="1.3"
+          cx="634"
+          cy="192"
+          r="0.5"
           fill="#e8c8ff"
           style="
-            --dur:6.4s;
-            --peak:0.40;
-            animation-delay:3.4s;
-          "
-        />
-      
-        <circle
-          class="particle"
-          cx="235"
-          cy="1078"
-          r="1.0"
-          fill="#ff88cc"
-          style="
-            --dur:8.4s;
-            --peak:0.40;
-            animation-delay:9.9s;
-          "
-        />
-      
-        <circle
-          class="particle"
-          cx="280"
-          cy="878"
-          r="1.4"
-          fill="#ffffff"
-          style="
-            --dur:10.4s;
-            --peak:0.29;
-            animation-delay:9.3s;
-          "
-        />
-      
-        <circle
-          class="particle"
-          cx="513"
-          cy="1151"
-          r="0.8"
-          fill="#7ee7ff"
-          style="
-            --dur:9.8s;
-            --peak:0.30;
-            animation-delay:9.6s;
-          "
-        />
-      
-        <circle
-          class="particle"
-          cx="412"
-          cy="291"
-          r="0.9"
-          fill="#e8c8ff"
-          style="
-            --dur:6.7s;
-            --peak:0.26;
-            animation-delay:6.5s;
+            --dur:5.2s;
+            --peak:0.42;
+            animation-delay:10.7s;
           "
         />
       
         <circle
           class="particle"
           cx="307"
-          cy="40"
-          r="0.5"
+          cy="1097"
+          r="1.5"
           fill="#ff88cc"
           style="
-            --dur:8.4s;
-            --peak:0.32;
-            animation-delay:5.3s;
+            --dur:7.1s;
+            --peak:0.50;
+            animation-delay:11.5s;
           "
         />
       
         <circle
           class="particle"
-          cx="704"
-          cy="13"
-          r="1.1"
+          cx="460"
+          cy="643"
+          r="0.9"
           fill="#ffffff"
           style="
-            --dur:10.4s;
-            --peak:0.50;
-            animation-delay:4.0s;
+            --dur:10.6s;
+            --peak:0.37;
+            animation-delay:0.3s;
           "
         />
       
         <circle
           class="particle"
-          cx="304"
-          cy="246"
-          r="1.0"
+          cx="192"
+          cy="708"
+          r="0.9"
           fill="#7ee7ff"
           style="
-            --dur:5.5s;
-            --peak:0.36;
-            animation-delay:5.2s;
+            --dur:6.2s;
+            --peak:0.31;
+            animation-delay:10.7s;
           "
         />
       
         <circle
           class="particle"
-          cx="165"
-          cy="957"
+          cx="457"
+          cy="288"
+          r="1.1"
+          fill="#e8c8ff"
+          style="
+            --dur:8.3s;
+            --peak:0.31;
+            animation-delay:3.5s;
+          "
+        />
+      
+        <circle
+          class="particle"
+          cx="218"
+          cy="894"
+          r="0.7"
+          fill="#ff88cc"
+          style="
+            --dur:10.1s;
+            --peak:0.44;
+            animation-delay:0.1s;
+          "
+        />
+      
+        <circle
+          class="particle"
+          cx="277"
+          cy="911"
+          r="1.7"
+          fill="#ffffff"
+          style="
+            --dur:7.3s;
+            --peak:0.53;
+            animation-delay:7.6s;
+          "
+        />
+      
+        <circle
+          class="particle"
+          cx="724"
+          cy="907"
+          r="1.3"
+          fill="#7ee7ff"
+          style="
+            --dur:5.6s;
+            --peak:0.30;
+            animation-delay:0.3s;
+          "
+        />
+      
+        <circle
+          class="particle"
+          cx="431"
+          cy="306"
+          r="0.6"
+          fill="#e8c8ff"
+          style="
+            --dur:9.2s;
+            --peak:0.26;
+            animation-delay:8.0s;
+          "
+        />
+      
+        <circle
+          class="particle"
+          cx="232"
+          cy="412"
+          r="1.1"
+          fill="#ff88cc"
+          style="
+            --dur:8.9s;
+            --peak:0.33;
+            animation-delay:7.8s;
+          "
+        />
+      
+        <circle
+          class="particle"
+          cx="201"
+          cy="731"
+          r="0.8"
+          fill="#ffffff"
+          style="
+            --dur:5.1s;
+            --peak:0.32;
+            animation-delay:1.0s;
+          "
+        />
+      
+        <circle
+          class="particle"
+          cx="498"
+          cy="846"
+          r="1.2"
+          fill="#7ee7ff"
+          style="
+            --dur:5.3s;
+            --peak:0.42;
+            animation-delay:10.2s;
+          "
+        />
+      
+        <circle
+          class="particle"
+          cx="347"
+          cy="47"
           r="1.4"
           fill="#e8c8ff"
           style="
-            --dur:5.9s;
-            --peak:0.28;
-            animation-delay:0.2s;
+            --dur:7.7s;
+            --peak:0.53;
+            animation-delay:0.1s;
           "
         />
       
         <circle
           class="particle"
-          cx="245"
-          cy="189"
-          r="2.0"
+          cx="676"
+          cy="799"
+          r="2.1"
           fill="#ff88cc"
           style="
-            --dur:8.8s;
-            --peak:0.29;
-            animation-delay:8.7s;
-          "
-        />
-      
-        <circle
-          class="particle"
-          cx="132"
-          cy="328"
-          r="0.4"
-          fill="#ffffff"
-          style="
-            --dur:10.7s;
-            --peak:0.29;
+            --dur:10.2s;
+            --peak:0.31;
             animation-delay:4.5s;
           "
         />
       
         <circle
           class="particle"
-          cx="165"
-          cy="276"
-          r="1.9"
-          fill="#7ee7ff"
-          style="
-            --dur:10.8s;
-            --peak:0.50;
-            animation-delay:8.5s;
-          "
-        />
-      
-        <circle
-          class="particle"
-          cx="390"
-          cy="431"
-          r="1.4"
-          fill="#e8c8ff"
-          style="
-            --dur:9.9s;
-            --peak:0.35;
-            animation-delay:9.6s;
-          "
-        />
-      
-        <circle
-          class="particle"
-          cx="6"
-          cy="35"
-          r="1.2"
-          fill="#ff88cc"
-          style="
-            --dur:8.6s;
-            --peak:0.29;
-            animation-delay:9.6s;
-          "
-        />
-      
-        <circle
-          class="particle"
-          cx="497"
-          cy="673"
-          r="1.0"
+          cx="749"
+          cy="134"
+          r="1.3"
           fill="#ffffff"
           style="
-            --dur:5.5s;
-            --peak:0.40;
-            animation-delay:2.0s;
+            --dur:8.4s;
+            --peak:0.28;
+            animation-delay:10.8s;
           "
         />
       
         <circle
           class="particle"
-          cx="377"
-          cy="123"
-          r="1.3"
+          cx="767"
+          cy="952"
+          r="1.2"
           fill="#7ee7ff"
           style="
-            --dur:10.9s;
-            --peak:0.35;
-            animation-delay:10.5s;
+            --dur:8.6s;
+            --peak:0.51;
+            animation-delay:6.4s;
           "
         />
       
         <circle
           class="particle"
-          cx="264"
-          cy="108"
-          r="2.0"
+          cx="121"
+          cy="291"
+          r="1.2"
           fill="#e8c8ff"
           style="
-            --dur:10.8s;
-            --peak:0.28;
-            animation-delay:0.4s;
+            --dur:9.6s;
+            --peak:0.36;
+            animation-delay:10.4s;
           "
         />
       
@@ -1100,7 +1100,7 @@
             font-weight="900"
             fill="#ffffff"
           >
-            0
+            14
           </text>
 
           <text
@@ -1139,7 +1139,7 @@
             font-weight="900"
             fill="#ffffff"
           >
-            0
+            11
           </text>
 
           <text
@@ -1178,7 +1178,7 @@
             font-weight="900"
             fill="#ffffff"
           >
-            0
+            67
           </text>
 
           <text
@@ -1217,7 +1217,7 @@
             font-weight="900"
             fill="#ffffff"
           >
-            0
+            235
           </text>
 
           <text
@@ -1282,7 +1282,447 @@
         fill="rgba(255,255,255,0.06)"
       />
     
+        <rect
+          x="40"
+          y="544"
+          width="453.6"
+          height="8"
+          rx="4"
+          fill="#f1e05a"
+          opacity="0.9"
+        />
+      
+        <rect
+          x="493.6"
+          y="544"
+          width="72"
+          height="8"
+          rx="4"
+          fill="#b07219"
+          opacity="0.9"
+        />
+      
+        <rect
+          x="565.6"
+          y="544"
+          width="57.6"
+          height="8"
+          rx="4"
+          fill="#3178c6"
+          opacity="0.9"
+        />
+      
+        <rect
+          x="623.2"
+          y="544"
+          width="43.2"
+          height="8"
+          rx="4"
+          fill="#e34c26"
+          opacity="0.9"
+        />
+      
+        <rect
+          x="666.4000000000001"
+          y="544"
+          width="21.6"
+          height="8"
+          rx="4"
+          fill="#4F5D95"
+          opacity="0.9"
+        />
+      
+        <rect
+          x="688.0000000000001"
+          y="544"
+          width="21.6"
+          height="8"
+          rx="4"
+          fill="#A97BFF"
+          opacity="0.9"
+        />
+      
+        <rect
+          x="709.6000000000001"
+          y="544"
+          width="14.4"
+          height="8"
+          rx="4"
+          fill="#DA5B0B"
+          opacity="0.9"
+        />
+      
+        <rect
+          x="724.0000000000001"
+          y="544"
+          width="14.4"
+          height="8"
+          rx="4"
+          fill="#dea584"
+          opacity="0.9"
+        />
+      
+        <rect
+          x="738.4000000000001"
+          y="544"
+          width="14.4"
+          height="8"
+          rx="4"
+          fill="#a91e50"
+          opacity="0.9"
+        />
+      
+        <rect
+          x="752.8000000000001"
+          y="544"
+          width="14.4"
+          height="8"
+          rx="4"
+          fill="#663399"
+          opacity="0.9"
+        />
+      
 
+        
+          <g>
+
+            <circle
+              cx="45"
+              cy="576"
+              r="4.5"
+              fill="#f1e05a"
+              opacity="0.9"
+            />
+
+            <text
+              x="55"
+              y="580"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="11"
+              font-weight="700"
+              fill="rgba(240,240,255,0.95)"
+            >
+              JavaScript
+            </text>
+
+            <text
+              x="126"
+              y="580"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="9.5"
+              fill="rgba(180,180,210,0.6)"
+              font-weight="500"
+            >
+              63%
+            </text>
+
+          </g>
+        
+          <g>
+
+            <circle
+              cx="189"
+              cy="576"
+              r="4.5"
+              fill="#b07219"
+              opacity="0.9"
+            />
+
+            <text
+              x="199"
+              y="580"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="11"
+              font-weight="700"
+              fill="rgba(240,240,255,0.95)"
+            >
+              Java
+            </text>
+
+            <text
+              x="231"
+              y="580"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="9.5"
+              fill="rgba(180,180,210,0.6)"
+              font-weight="500"
+            >
+              10%
+            </text>
+
+          </g>
+        
+          <g>
+
+            <circle
+              cx="333"
+              cy="576"
+              r="4.5"
+              fill="#3178c6"
+              opacity="0.9"
+            />
+
+            <text
+              x="343"
+              y="580"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="11"
+              font-weight="700"
+              fill="rgba(240,240,255,0.95)"
+            >
+              TypeScript
+            </text>
+
+            <text
+              x="414"
+              y="580"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="9.5"
+              fill="rgba(180,180,210,0.6)"
+              font-weight="500"
+            >
+              8%
+            </text>
+
+          </g>
+        
+          <g>
+
+            <circle
+              cx="477"
+              cy="576"
+              r="4.5"
+              fill="#e34c26"
+              opacity="0.9"
+            />
+
+            <text
+              x="487"
+              y="580"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="11"
+              font-weight="700"
+              fill="rgba(240,240,255,0.95)"
+            >
+              HTML
+            </text>
+
+            <text
+              x="519"
+              y="580"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="9.5"
+              fill="rgba(180,180,210,0.6)"
+              font-weight="500"
+            >
+              6%
+            </text>
+
+          </g>
+        
+          <g>
+
+            <circle
+              cx="621"
+              cy="576"
+              r="4.5"
+              fill="#4F5D95"
+              opacity="0.9"
+            />
+
+            <text
+              x="631"
+              y="580"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="11"
+              font-weight="700"
+              fill="rgba(240,240,255,0.95)"
+            >
+              PHP
+            </text>
+
+            <text
+              x="656.5"
+              y="580"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="9.5"
+              fill="rgba(180,180,210,0.6)"
+              font-weight="500"
+            >
+              3%
+            </text>
+
+          </g>
+        
+          <g>
+
+            <circle
+              cx="45"
+              cy="606"
+              r="4.5"
+              fill="#A97BFF"
+              opacity="0.9"
+            />
+
+            <text
+              x="55"
+              y="610"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="11"
+              font-weight="700"
+              fill="rgba(240,240,255,0.95)"
+            >
+              Kotlin
+            </text>
+
+            <text
+              x="100"
+              y="610"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="9.5"
+              fill="rgba(180,180,210,0.6)"
+              font-weight="500"
+            >
+              3%
+            </text>
+
+          </g>
+        
+          <g>
+
+            <circle
+              cx="189"
+              cy="606"
+              r="4.5"
+              fill="#DA5B0B"
+              opacity="0.9"
+            />
+
+            <text
+              x="199"
+              y="610"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="11"
+              font-weight="700"
+              fill="rgba(240,240,255,0.95)"
+            >
+              Jupyter Notebook
+            </text>
+
+            <text
+              x="309"
+              y="610"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="9.5"
+              fill="rgba(180,180,210,0.6)"
+              font-weight="500"
+            >
+              2%
+            </text>
+
+          </g>
+        
+          <g>
+
+            <circle
+              cx="333"
+              cy="606"
+              r="4.5"
+              fill="#dea584"
+              opacity="0.9"
+            />
+
+            <text
+              x="343"
+              y="610"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="11"
+              font-weight="700"
+              fill="rgba(240,240,255,0.95)"
+            >
+              Rust
+            </text>
+
+            <text
+              x="375"
+              y="610"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="9.5"
+              fill="rgba(180,180,210,0.6)"
+              font-weight="500"
+            >
+              2%
+            </text>
+
+          </g>
+        
+          <g>
+
+            <circle
+              cx="477"
+              cy="606"
+              r="4.5"
+              fill="#a91e50"
+              opacity="0.9"
+            />
+
+            <text
+              x="487"
+              y="610"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="11"
+              font-weight="700"
+              fill="rgba(240,240,255,0.95)"
+            >
+              EJS
+            </text>
+
+            <text
+              x="512.5"
+              y="610"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="9.5"
+              fill="rgba(180,180,210,0.6)"
+              font-weight="500"
+            >
+              2%
+            </text>
+
+          </g>
+        
+          <g>
+
+            <circle
+              cx="621"
+              cy="606"
+              r="4.5"
+              fill="#663399"
+              opacity="0.9"
+            />
+
+            <text
+              x="631"
+              y="610"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="11"
+              font-weight="700"
+              fill="rgba(240,240,255,0.95)"
+            >
+              CSS
+            </text>
+
+            <text
+              x="656.5"
+              y="610"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="9.5"
+              fill="rgba(180,180,210,0.6)"
+              font-weight="500"
+            >
+              2%
+            </text>
+
+          </g>
         
 
       </g>
@@ -1321,7 +1761,7 @@
           fill="rgba(232,200,255,0.65)"
           font-weight="700"
         >
-          0
+          1877
           contributions
         </text>
 
@@ -1332,7 +1772,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -1341,7 +1781,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -1350,7 +1790,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -1359,7 +1799,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -1368,7 +1808,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -1377,7 +1817,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -1395,7 +1835,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -1404,7 +1844,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -1413,7 +1853,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -1422,7 +1862,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -1431,7 +1871,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -1440,7 +1880,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -1449,7 +1889,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -1458,7 +1898,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -1467,7 +1907,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1476,7 +1916,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -1485,7 +1925,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -1494,7 +1934,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -1503,7 +1943,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -1512,7 +1952,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -1521,7 +1961,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -1530,7 +1970,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -1539,7 +1979,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -1548,7 +1988,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -1557,7 +1997,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -1566,7 +2006,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -1575,7 +2015,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -1584,7 +2024,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -1593,7 +2033,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1602,7 +2042,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -1611,7 +2051,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -1620,7 +2060,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -1629,7 +2069,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -1638,7 +2078,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1647,7 +2087,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -1656,7 +2096,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1665,7 +2105,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -1674,7 +2114,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -1683,7 +2123,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -1692,7 +2132,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -1701,7 +2141,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -1710,7 +2150,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -1719,7 +2159,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -1728,7 +2168,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -1737,7 +2177,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -1746,7 +2186,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -1755,7 +2195,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1764,7 +2204,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1773,7 +2213,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1782,7 +2222,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1791,7 +2231,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1800,7 +2240,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1809,7 +2249,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1818,7 +2258,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1827,7 +2267,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1836,7 +2276,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1845,7 +2285,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1854,7 +2294,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -1863,7 +2303,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1872,7 +2312,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1881,7 +2321,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1890,7 +2330,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1899,7 +2339,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -1908,7 +2348,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1917,7 +2357,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -1926,7 +2366,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -1935,7 +2375,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1944,7 +2384,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1953,7 +2393,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1962,7 +2402,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1971,7 +2411,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -1980,7 +2420,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1989,7 +2429,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -1998,7 +2438,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -2007,7 +2447,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -2016,7 +2456,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -2025,7 +2465,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -2034,7 +2474,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -2043,7 +2483,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -2052,7 +2492,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -2061,7 +2501,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -2070,7 +2510,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -2079,7 +2519,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -2088,7 +2528,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -2097,7 +2537,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -2106,7 +2546,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -2115,7 +2555,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -2124,7 +2564,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -2169,7 +2609,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -2178,7 +2618,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -2187,7 +2627,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -2196,7 +2636,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -2223,7 +2663,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2232,7 +2672,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2241,7 +2681,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -2250,7 +2690,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2259,7 +2699,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -2268,7 +2708,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -2277,7 +2717,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -2286,7 +2726,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2295,7 +2735,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2304,7 +2744,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2322,7 +2762,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -2331,7 +2771,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2340,7 +2780,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -2349,7 +2789,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2358,7 +2798,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2367,7 +2807,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2376,7 +2816,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2385,7 +2825,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2394,7 +2834,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2403,7 +2843,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2412,7 +2852,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2421,7 +2861,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2430,7 +2870,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2439,7 +2879,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2448,7 +2888,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2457,7 +2897,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2466,7 +2906,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2475,7 +2915,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2484,7 +2924,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2493,7 +2933,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2511,7 +2951,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2520,7 +2960,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2529,7 +2969,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2538,7 +2978,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2547,7 +2987,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2556,7 +2996,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2565,7 +3005,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2574,7 +3014,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2583,7 +3023,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2592,7 +3032,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2601,7 +3041,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2610,7 +3050,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2619,7 +3059,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2628,7 +3068,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2637,7 +3077,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2646,7 +3086,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2655,7 +3095,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2736,7 +3176,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2745,7 +3185,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -2754,7 +3194,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2763,7 +3203,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -2772,7 +3212,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2781,7 +3221,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -2790,7 +3230,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2799,7 +3239,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2808,7 +3248,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2817,7 +3257,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2826,7 +3266,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2835,7 +3275,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2844,7 +3284,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -2853,7 +3293,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2871,7 +3311,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2880,7 +3320,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2898,7 +3338,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2907,7 +3347,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -2916,7 +3356,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2925,7 +3365,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2934,7 +3374,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2943,7 +3383,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2952,7 +3392,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2961,7 +3401,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -2970,7 +3410,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2979,7 +3419,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2988,7 +3428,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -2997,7 +3437,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3006,7 +3446,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -3015,7 +3455,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -3024,7 +3464,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3033,7 +3473,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3042,7 +3482,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3051,7 +3491,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3060,7 +3500,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3069,7 +3509,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3078,7 +3518,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3087,7 +3527,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3096,7 +3536,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3105,7 +3545,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3114,7 +3554,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3123,7 +3563,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3132,7 +3572,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3141,7 +3581,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3150,7 +3590,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -3159,7 +3599,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -3168,7 +3608,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3177,7 +3617,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -3186,7 +3626,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -3195,7 +3635,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3204,7 +3644,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3213,7 +3653,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3231,7 +3671,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3240,7 +3680,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3249,7 +3689,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3258,7 +3698,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3267,7 +3707,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3276,7 +3716,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3285,7 +3725,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3294,7 +3734,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3303,7 +3743,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3321,7 +3761,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3330,7 +3770,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3339,7 +3779,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3348,7 +3788,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3357,7 +3797,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3366,7 +3806,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3375,7 +3815,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3384,7 +3824,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3393,7 +3833,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3411,7 +3851,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3420,7 +3860,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3429,7 +3869,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3438,7 +3878,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3447,7 +3887,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3456,7 +3896,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3465,7 +3905,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3474,7 +3914,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3483,7 +3923,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -3492,7 +3932,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3501,7 +3941,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3510,7 +3950,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3519,7 +3959,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3528,7 +3968,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3537,7 +3977,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3546,7 +3986,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3555,7 +3995,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -3564,7 +4004,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -3573,7 +4013,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -3582,7 +4022,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3600,7 +4040,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3609,7 +4049,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3618,7 +4058,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -3627,7 +4067,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -3636,7 +4076,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3645,7 +4085,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3654,7 +4094,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3663,7 +4103,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -3672,7 +4112,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -3681,7 +4121,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3690,7 +4130,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3699,7 +4139,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -3708,7 +4148,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3717,7 +4157,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3726,7 +4166,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3735,7 +4175,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -3744,7 +4184,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3753,7 +4193,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -3762,7 +4202,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3771,7 +4211,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -3780,7 +4220,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3789,7 +4229,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3798,7 +4238,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3807,7 +4247,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3816,7 +4256,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3825,7 +4265,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3834,7 +4274,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -3843,7 +4283,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3852,7 +4292,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3861,7 +4301,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3870,7 +4310,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -3879,7 +4319,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3888,7 +4328,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3897,7 +4337,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -3906,7 +4346,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -3915,7 +4355,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3924,7 +4364,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -3933,7 +4373,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -3942,7 +4382,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -3951,7 +4391,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -3960,7 +4400,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -3969,7 +4409,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -3978,7 +4418,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -3987,7 +4427,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -3996,7 +4436,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -4005,7 +4445,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -4014,7 +4454,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -4023,7 +4463,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -4032,7 +4472,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4041,7 +4481,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -4050,7 +4490,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4059,7 +4499,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4068,7 +4508,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -4077,7 +4517,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -4086,7 +4526,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -4095,7 +4535,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -4104,7 +4544,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -4113,7 +4553,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -4122,7 +4562,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4131,7 +4571,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -4140,7 +4580,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -4149,7 +4589,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4158,7 +4598,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -4167,7 +4607,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -4176,7 +4616,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -4185,7 +4625,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -4194,7 +4634,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4203,7 +4643,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4212,7 +4652,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -4221,7 +4661,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4230,7 +4670,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -4239,7 +4679,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4248,7 +4688,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4257,7 +4697,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4266,7 +4706,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4275,7 +4715,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -4284,7 +4724,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4293,7 +4733,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -4302,7 +4742,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -4311,7 +4751,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -4320,7 +4760,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -4329,7 +4769,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -4338,7 +4778,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -4347,7 +4787,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -4356,7 +4796,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -4365,7 +4805,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -4374,7 +4814,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -4383,7 +4823,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -4392,7 +4832,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -4401,7 +4841,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -4410,7 +4850,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -4419,7 +4859,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -4428,7 +4868,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -4437,7 +4877,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -4446,7 +4886,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -4455,7 +4895,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4464,7 +4904,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -4473,7 +4913,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4482,7 +4922,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -4491,7 +4931,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4500,7 +4940,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4509,7 +4949,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4518,7 +4958,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4527,7 +4967,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(126,231,255,0.95)"
           />
         
           <rect
@@ -4536,7 +4976,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -4545,7 +4985,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -4554,7 +4994,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4563,7 +5003,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4572,7 +5012,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
           />
         
           <rect
@@ -4581,7 +5021,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="#ffffff"
           />
         
           <rect
@@ -4590,7 +5030,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(45,74,110,0.85)"
           />
         
           <rect
@@ -4599,7 +5039,25 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(25,25,45,0.7)"
+            fill="rgba(74,126,200,0.9)"
+          />
+        
+          <rect
+            x="679"
+            y="756"
+            width="10"
+            height="10"
+            rx="2.5"
+            fill="rgba(45,74,110,0.85)"
+          />
+        
+          <rect
+            x="679"
+            y="768"
+            width="10"
+            height="10"
+            rx="2.5"
+            fill="#ffffff"
           />
         
 
@@ -4641,17 +5099,375 @@
         </text>
 
         
-        <text
-          x="400"
-          y="1010"
-          text-anchor="middle"
-          font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
-          font-size="12"
-          fill="rgba(180,180,210,0.6)"
-        >
-          No public repositories available
-        </text>
-      
+          <g>
+
+            <rect
+              x="39"
+              y="920"
+              width="230"
+              height="180"
+              rx="16"
+              fill="rgba(10,8,20,0.9)"
+              stroke="rgba(126,231,255,0.25)"
+              stroke-width="1.5"
+            />
+
+            <text
+              x="57"
+              y="950"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="15"
+              font-weight="900"
+              fill="#ffffff"
+            >
+              Class-Bazz
+            </text>
+
+            
+              <text
+                x="57"
+                y="974"
+                font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+                font-size="10"
+                fill="rgba(190,190,220,0.8)"
+                font-weight="400"
+              >
+                Class-Bazz is a full-stack
+              </text>
+            
+              <text
+                x="57"
+                y="990"
+                font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+                font-size="10"
+                fill="rgba(190,190,220,0.8)"
+                font-weight="400"
+              >
+                MERN app for classroom
+              </text>
+            
+              <text
+                x="57"
+                y="1006"
+                font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+                font-size="10"
+                fill="rgba(190,190,220,0.8)"
+                font-weight="400"
+              >
+                management. It enables
+              </text>
+            
+
+            <line
+              x1="57"
+              y1="1044"
+              x2="251"
+              y2="1044"
+              stroke="rgba(126,231,255,0.12)"
+              stroke-width="0.6"
+            />
+
+            <g
+              transform="
+                translate(
+                  57,
+                  1058
+                )
+              "
+            >
+
+              <circle
+                cx="5"
+                cy="5"
+                r="5"
+                fill="#7ee7ff"
+                opacity="0.9"
+              />
+
+              <text
+                x="16"
+                y="9"
+                font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+                font-size="10"
+                font-weight="700"
+                fill="#7ee7ff"
+              >
+                JavaScript
+              </text>
+
+            </g>
+
+            <g
+              transform="
+                translate(
+                  194,
+                  1058
+                )
+              "
+            >
+
+              <text
+                x="0"
+                y="9"
+                font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+                font-size="10"
+                fill="rgba(200,200,230,0.5)"
+                font-weight="600"
+              >
+                ★ 4
+                ⑂ 0
+              </text>
+
+            </g>
+
+          </g>
+        
+          <g>
+
+            <rect
+              x="285"
+              y="920"
+              width="230"
+              height="180"
+              rx="16"
+              fill="rgba(10,8,20,0.9)"
+              stroke="rgba(232,200,255,0.25)"
+              stroke-width="1.5"
+            />
+
+            <text
+              x="303"
+              y="950"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="15"
+              font-weight="900"
+              fill="#ffffff"
+            >
+              CampusBot
+            </text>
+
+            
+              <text
+                x="303"
+                y="974"
+                font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+                font-size="10"
+                fill="rgba(190,190,220,0.8)"
+                font-weight="400"
+              >
+                AI-powered campus helpdesk
+              </text>
+            
+              <text
+                x="303"
+                y="990"
+                font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+                font-size="10"
+                fill="rgba(190,190,220,0.8)"
+                font-weight="400"
+              >
+                chatbot built for Brainware
+              </text>
+            
+              <text
+                x="303"
+                y="1006"
+                font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+                font-size="10"
+                fill="rgba(190,190,220,0.8)"
+                font-weight="400"
+              >
+                AI Hackathon 2025 to
+              </text>
+            
+
+            <line
+              x1="303"
+              y1="1044"
+              x2="497"
+              y2="1044"
+              stroke="rgba(232,200,255,0.12)"
+              stroke-width="0.6"
+            />
+
+            <g
+              transform="
+                translate(
+                  303,
+                  1058
+                )
+              "
+            >
+
+              <circle
+                cx="5"
+                cy="5"
+                r="5"
+                fill="#e8c8ff"
+                opacity="0.9"
+              />
+
+              <text
+                x="16"
+                y="9"
+                font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+                font-size="10"
+                font-weight="700"
+                fill="#e8c8ff"
+              >
+                JavaScript
+              </text>
+
+            </g>
+
+            <g
+              transform="
+                translate(
+                  440,
+                  1058
+                )
+              "
+            >
+
+              <text
+                x="0"
+                y="9"
+                font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+                font-size="10"
+                fill="rgba(200,200,230,0.5)"
+                font-weight="600"
+              >
+                ★ 3
+                ⑂ 3
+              </text>
+
+            </g>
+
+          </g>
+        
+          <g>
+
+            <rect
+              x="531"
+              y="920"
+              width="230"
+              height="180"
+              rx="16"
+              fill="rgba(10,8,20,0.9)"
+              stroke="rgba(255,136,204,0.25)"
+              stroke-width="1.5"
+            />
+
+            <text
+              x="549"
+              y="950"
+              font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+              font-size="15"
+              font-weight="900"
+              fill="#ffffff"
+            >
+              Projecthub
+            </text>
+
+            
+              <text
+                x="549"
+                y="974"
+                font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+                font-size="10"
+                fill="rgba(190,190,220,0.8)"
+                font-weight="400"
+              >
+                ProjectHub is a web-based
+              </text>
+            
+              <text
+                x="549"
+                y="990"
+                font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+                font-size="10"
+                fill="rgba(190,190,220,0.8)"
+                font-weight="400"
+              >
+                collaboration platform
+              </text>
+            
+              <text
+                x="549"
+                y="1006"
+                font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+                font-size="10"
+                fill="rgba(190,190,220,0.8)"
+                font-weight="400"
+              >
+                developed using the MERN
+              </text>
+            
+
+            <line
+              x1="549"
+              y1="1044"
+              x2="743"
+              y2="1044"
+              stroke="rgba(255,136,204,0.12)"
+              stroke-width="0.6"
+            />
+
+            <g
+              transform="
+                translate(
+                  549,
+                  1058
+                )
+              "
+            >
+
+              <circle
+                cx="5"
+                cy="5"
+                r="5"
+                fill="#ff88cc"
+                opacity="0.9"
+              />
+
+              <text
+                x="16"
+                y="9"
+                font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+                font-size="10"
+                font-weight="700"
+                fill="#ff88cc"
+              >
+                JavaScript
+              </text>
+
+            </g>
+
+            <g
+              transform="
+                translate(
+                  686,
+                  1058
+                )
+              "
+            >
+
+              <text
+                x="0"
+                y="9"
+                font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
+                font-size="10"
+                fill="rgba(200,200,230,0.5)"
+                font-weight="600"
+              >
+                ★ 2
+                ⑂ 3
+              </text>
+
+            </g>
+
+          </g>
+        
 
       </g>
     
