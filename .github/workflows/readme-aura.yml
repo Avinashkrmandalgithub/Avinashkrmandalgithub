@@ -1,0 +1,89 @@
+name: Generate Profile
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+  schedule:
+    # Every 5 minutes
+    - cron: "*/5 * * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      # ==========================================
+      # Checkout repository
+      # ==========================================
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ==========================================
+      # Setup Node.js
+      # ==========================================
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # ==========================================
+      # Generate aura components
+      # ==========================================
+      - name: Generate individual aura components
+        uses: collectioneur/readme-aura@main
+        with:
+          github_token: ${{ secrets.METRICTOKEN }}
+
+      # ==========================================
+      # Generate unified profile SVG
+      # ==========================================
+      - name: Generate unified profile SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICTOKEN }}
+          GITHUB_USER: Avinashkrmandalgithub
+        run: |
+          node .github/scripts/generate-profile.js
+
+      # ==========================================
+      # Update README
+      # ==========================================
+      - name: Set README to single profile SVG
+        run: |
+          cat > README.md <<'EOF'
+          <p align="center">
+            <img
+              src="https://komarev.com/ghpvc/?username=Avinashkrmandalgithub&label=Profile%20views&color=0e75b6&style=flat"
+              alt="Avinashkrmandalgithub"
+            />
+          </p>
+
+          <p align="center">
+            <img
+              src="./.github/assets/profile.svg"
+              alt="Avinash Mandal GitHub Profile"
+            />
+          </p>
+          EOF
+
+      # ==========================================
+      # Commit & Push generated files
+      # ==========================================
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add --force .github/assets/*.svg README.md
+
+          git diff --staged --quiet || (
+            git commit -m "chore: update profile" &&
+            git push
+          )
