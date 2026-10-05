@@ -922,8 +922,6 @@ function generateSVG(data) {
 
     const techs = [
       "Java",
-      "C++",
-      "C",
       "Python",
       "JavaScript",
       "TypeScript",
