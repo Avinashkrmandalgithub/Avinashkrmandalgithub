@@ -890,7 +890,7 @@ function generateSVG(data) {
           letter-spacing="1.5"
           font-weight="500"
         >
-          DSA • WEB DEVELOPMENT • MOBILE DEVELOPMENT
+          DSA • WEB DEVELOPMENT
         </text>
 
         <!-- GITHUB -->
