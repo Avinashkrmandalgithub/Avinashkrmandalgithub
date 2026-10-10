@@ -1,5 +1,5 @@
 
-<!-- AVINASH MANDAL | GitHub Profile | Generated 2026-10-09T20:51:18.211Z -->
+<!-- AVINASH MANDAL | GitHub Profile | Generated 2026-10-10T00:21:25.198Z -->
 
 <svg
   xmlns="http://www.w3.org/2000/svg"
@@ -332,235 +332,235 @@
   
         <circle
           class="particle"
-          cx="342"
-          cy="882"
-          r="1.4"
+          cx="77"
+          cy="682"
+          r="0.8"
           fill="#7ee7ff"
           style="
-            --dur:8.2s;
-            --peak:0.41;
-            animation-delay:7.8s;
+            --dur:8.1s;
+            --peak:0.30;
+            animation-delay:8.4s;
           "
         />
       
         <circle
           class="particle"
-          cx="598"
-          cy="631"
-          r="0.8"
+          cx="560"
+          cy="574"
+          r="1.4"
           fill="#e8c8ff"
           style="
-            --dur:10.4s;
-            --peak:0.33;
-            animation-delay:11.4s;
+            --dur:8.0s;
+            --peak:0.42;
+            animation-delay:0.3s;
           "
         />
       
         <circle
           class="particle"
-          cx="736"
-          cy="1102"
-          r="2.1"
+          cx="151"
+          cy="692"
+          r="1.2"
           fill="#ff88cc"
           style="
-            --dur:5.3s;
-            --peak:0.39;
+            --dur:8.6s;
+            --peak:0.44;
+            animation-delay:1.6s;
+          "
+        />
+      
+        <circle
+          class="particle"
+          cx="340"
+          cy="818"
+          r="1.3"
+          fill="#ffffff"
+          style="
+            --dur:9.9s;
+            --peak:0.33;
+            animation-delay:7.0s;
+          "
+        />
+      
+        <circle
+          class="particle"
+          cx="251"
+          cy="1134"
+          r="1.8"
+          fill="#7ee7ff"
+          style="
+            --dur:10.7s;
+            --peak:0.30;
+            animation-delay:1.5s;
+          "
+        />
+      
+        <circle
+          class="particle"
+          cx="747"
+          cy="833"
+          r="1.0"
+          fill="#e8c8ff"
+          style="
+            --dur:6.0s;
+            --peak:0.47;
+            animation-delay:6.9s;
+          "
+        />
+      
+        <circle
+          class="particle"
+          cx="72"
+          cy="792"
+          r="1.6"
+          fill="#ff88cc"
+          style="
+            --dur:6.5s;
+            --peak:0.54;
             animation-delay:8.2s;
           "
         />
       
         <circle
           class="particle"
-          cx="589"
-          cy="1084"
-          r="1.8"
+          cx="268"
+          cy="109"
+          r="1.2"
           fill="#ffffff"
           style="
-            --dur:9.7s;
-            --peak:0.33;
-            animation-delay:8.5s;
+            --dur:10.7s;
+            --peak:0.51;
+            animation-delay:10.1s;
           "
         />
       
         <circle
           class="particle"
-          cx="91"
-          cy="505"
-          r="1.6"
-          fill="#7ee7ff"
-          style="
-            --dur:9.0s;
-            --peak:0.41;
-            animation-delay:6.7s;
-          "
-        />
-      
-        <circle
-          class="particle"
-          cx="613"
-          cy="32"
-          r="1.3"
-          fill="#e8c8ff"
-          style="
-            --dur:8.9s;
-            --peak:0.37;
-            animation-delay:7.2s;
-          "
-        />
-      
-        <circle
-          class="particle"
-          cx="359"
-          cy="738"
+          cx="465"
+          cy="597"
           r="2.0"
-          fill="#ff88cc"
-          style="
-            --dur:8.7s;
-            --peak:0.39;
-            animation-delay:10.0s;
-          "
-        />
-      
-        <circle
-          class="particle"
-          cx="732"
-          cy="510"
-          r="1.7"
-          fill="#ffffff"
-          style="
-            --dur:7.7s;
-            --peak:0.43;
-            animation-delay:4.4s;
-          "
-        />
-      
-        <circle
-          class="particle"
-          cx="322"
-          cy="487"
-          r="1.3"
           fill="#7ee7ff"
           style="
-            --dur:10.3s;
-            --peak:0.47;
-            animation-delay:3.1s;
+            --dur:10.8s;
+            --peak:0.31;
+            animation-delay:10.1s;
           "
         />
       
         <circle
           class="particle"
-          cx="442"
-          cy="1135"
-          r="2.2"
+          cx="580"
+          cy="357"
+          r="0.7"
           fill="#e8c8ff"
           style="
-            --dur:6.8s;
-            --peak:0.46;
-            animation-delay:11.8s;
+            --dur:5.5s;
+            --peak:0.29;
+            animation-delay:8.8s;
           "
         />
       
         <circle
           class="particle"
-          cx="661"
-          cy="122"
-          r="1.9"
+          cx="88"
+          cy="79"
+          r="2.2"
           fill="#ff88cc"
           style="
-            --dur:8.8s;
-            --peak:0.26;
+            --dur:6.9s;
+            --peak:0.31;
+            animation-delay:6.9s;
+          "
+        />
+      
+        <circle
+          class="particle"
+          cx="273"
+          cy="534"
+          r="1.5"
+          fill="#ffffff"
+          style="
+            --dur:6.9s;
+            --peak:0.43;
             animation-delay:4.7s;
           "
         />
       
         <circle
           class="particle"
-          cx="631"
-          cy="1127"
-          r="2.1"
-          fill="#ffffff"
-          style="
-            --dur:9.5s;
-            --peak:0.34;
-            animation-delay:7.7s;
-          "
-        />
-      
-        <circle
-          class="particle"
-          cx="741"
-          cy="257"
-          r="1.8"
+          cx="406"
+          cy="141"
+          r="0.7"
           fill="#7ee7ff"
           style="
-            --dur:5.0s;
-            --peak:0.29;
-            animation-delay:11.3s;
+            --dur:9.8s;
+            --peak:0.30;
+            animation-delay:10.2s;
           "
         />
       
         <circle
           class="particle"
-          cx="457"
-          cy="260"
-          r="0.7"
+          cx="482"
+          cy="992"
+          r="0.8"
           fill="#e8c8ff"
           style="
-            --dur:10.3s;
-            --peak:0.46;
-            animation-delay:8.1s;
+            --dur:7.3s;
+            --peak:0.29;
+            animation-delay:10.8s;
           "
         />
       
         <circle
           class="particle"
-          cx="1"
-          cy="413"
-          r="2.1"
+          cx="426"
+          cy="788"
+          r="1.3"
           fill="#ff88cc"
           style="
-            --dur:10.0s;
-            --peak:0.29;
-            animation-delay:4.9s;
+            --dur:8.3s;
+            --peak:0.36;
+            animation-delay:6.6s;
           "
         />
       
         <circle
           class="particle"
-          cx="497"
-          cy="320"
-          r="2.1"
+          cx="492"
+          cy="125"
+          r="0.6"
           fill="#ffffff"
           style="
-            --dur:9.1s;
-            --peak:0.34;
-            animation-delay:5.9s;
+            --dur:8.6s;
+            --peak:0.31;
+            animation-delay:11.9s;
           "
         />
       
         <circle
           class="particle"
-          cx="475"
-          cy="773"
-          r="1.1"
+          cx="14"
+          cy="169"
+          r="2.0"
           fill="#7ee7ff"
           style="
-            --dur:6.5s;
-            --peak:0.44;
-            animation-delay:11.4s;
+            --dur:9.9s;
+            --peak:0.26;
+            animation-delay:8.6s;
           "
         />
       
         <circle
           class="particle"
-          cx="304"
-          cy="811"
-          r="0.9"
+          cx="210"
+          cy="869"
+          r="0.6"
           fill="#e8c8ff"
           style="
-            --dur:8.5s;
-            --peak:0.52;
-            animation-delay:9.8s;
+            --dur:7.3s;
+            --peak:0.36;
+            animation-delay:2.4s;
           "
         />
       
