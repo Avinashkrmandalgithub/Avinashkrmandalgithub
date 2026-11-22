@@ -1,5 +1,5 @@
 
-<!-- AVINASH MANDAL | GitHub Profile | Generated 2026-11-22T08:49:05.789Z -->
+<!-- AVINASH MANDAL | GitHub Profile | Generated 2026-11-22T16:42:17.563Z -->
 
 <svg
   xmlns="http://www.w3.org/2000/svg"
@@ -332,235 +332,235 @@
   
         <circle
           class="particle"
-          cx="624"
-          cy="190"
+          cx="403"
+          cy="179"
           r="1.1"
           fill="#7ee7ff"
           style="
-            --dur:7.6s;
-            --peak:0.53;
-            animation-delay:6.0s;
+            --dur:8.3s;
+            --peak:0.30;
+            animation-delay:3.6s;
           "
         />
       
         <circle
           class="particle"
-          cx="171"
-          cy="654"
-          r="1.1"
+          cx="274"
+          cy="974"
+          r="1.4"
           fill="#e8c8ff"
           style="
-            --dur:10.1s;
-            --peak:0.32;
-            animation-delay:7.5s;
+            --dur:6.0s;
+            --peak:0.27;
+            animation-delay:9.2s;
           "
         />
       
         <circle
           class="particle"
-          cx="87"
-          cy="719"
-          r="1.0"
+          cx="566"
+          cy="761"
+          r="1.5"
           fill="#ff88cc"
+          style="
+            --dur:8.9s;
+            --peak:0.45;
+            animation-delay:9.3s;
+          "
+        />
+      
+        <circle
+          class="particle"
+          cx="5"
+          cy="656"
+          r="1.8"
+          fill="#ffffff"
           style="
             --dur:10.3s;
-            --peak:0.50;
-            animation-delay:11.7s;
-          "
-        />
-      
-        <circle
-          class="particle"
-          cx="795"
-          cy="843"
-          r="1.6"
-          fill="#ffffff"
-          style="
-            --dur:7.6s;
-            --peak:0.28;
-            animation-delay:4.0s;
-          "
-        />
-      
-        <circle
-          class="particle"
-          cx="209"
-          cy="154"
-          r="1.4"
-          fill="#7ee7ff"
-          style="
-            --dur:5.2s;
-            --peak:0.44;
-            animation-delay:11.9s;
-          "
-        />
-      
-        <circle
-          class="particle"
-          cx="123"
-          cy="71"
-          r="0.5"
-          fill="#e8c8ff"
-          style="
-            --dur:9.7s;
-            --peak:0.44;
-            animation-delay:4.3s;
-          "
-        />
-      
-        <circle
-          class="particle"
-          cx="615"
-          cy="218"
-          r="1.4"
-          fill="#ff88cc"
-          style="
-            --dur:10.9s;
-            --peak:0.31;
-            animation-delay:5.0s;
-          "
-        />
-      
-        <circle
-          class="particle"
-          cx="773"
-          cy="717"
-          r="0.6"
-          fill="#ffffff"
-          style="
-            --dur:5.5s;
-            --peak:0.45;
+            --peak:0.39;
             animation-delay:2.8s;
           "
         />
       
         <circle
           class="particle"
-          cx="202"
-          cy="119"
-          r="1.1"
+          cx="296"
+          cy="622"
+          r="2.1"
           fill="#7ee7ff"
           style="
-            --dur:7.5s;
-            --peak:0.33;
-            animation-delay:3.0s;
+            --dur:7.3s;
+            --peak:0.43;
+            animation-delay:2.8s;
           "
         />
       
         <circle
           class="particle"
-          cx="42"
-          cy="935"
-          r="0.7"
+          cx="79"
+          cy="270"
+          r="0.9"
           fill="#e8c8ff"
           style="
-            --dur:8.3s;
-            --peak:0.34;
-            animation-delay:10.6s;
+            --dur:7.8s;
+            --peak:0.31;
+            animation-delay:5.2s;
           "
         />
       
         <circle
           class="particle"
-          cx="763"
-          cy="266"
-          r="1.6"
+          cx="457"
+          cy="756"
+          r="0.4"
           fill="#ff88cc"
           style="
             --dur:6.0s;
-            --peak:0.43;
-            animation-delay:6.9s;
+            --peak:0.55;
+            animation-delay:1.6s;
           "
         />
       
         <circle
           class="particle"
-          cx="45"
-          cy="285"
-          r="1.5"
+          cx="233"
+          cy="1116"
+          r="0.6"
           fill="#ffffff"
           style="
-            --dur:9.7s;
-            --peak:0.34;
-            animation-delay:3.1s;
+            --dur:7.8s;
+            --peak:0.31;
+            animation-delay:2.0s;
           "
         />
       
         <circle
           class="particle"
-          cx="20"
-          cy="349"
-          r="1.5"
+          cx="316"
+          cy="473"
+          r="1.3"
           fill="#7ee7ff"
           style="
-            --dur:9.8s;
-            --peak:0.26;
-            animation-delay:2.9s;
+            --dur:8.0s;
+            --peak:0.31;
+            animation-delay:0.7s;
           "
         />
       
         <circle
           class="particle"
-          cx="444"
-          cy="471"
-          r="2.0"
+          cx="295"
+          cy="924"
+          r="1.9"
           fill="#e8c8ff"
           style="
-            --dur:6.0s;
-            --peak:0.29;
-            animation-delay:6.6s;
+            --dur:5.2s;
+            --peak:0.35;
+            animation-delay:7.3s;
           "
         />
       
         <circle
           class="particle"
-          cx="296"
-          cy="973"
-          r="0.6"
+          cx="699"
+          cy="935"
+          r="2.0"
           fill="#ff88cc"
           style="
-            --dur:7.9s;
-            --peak:0.46;
+            --dur:9.2s;
+            --peak:0.52;
             animation-delay:0.4s;
           "
         />
       
         <circle
           class="particle"
-          cx="708"
-          cy="402"
-          r="0.5"
+          cx="656"
+          cy="923"
+          r="1.8"
           fill="#ffffff"
           style="
-            --dur:7.8s;
-            --peak:0.37;
-            animation-delay:11.6s;
+            --dur:10.6s;
+            --peak:0.45;
+            animation-delay:6.0s;
           "
         />
       
         <circle
           class="particle"
-          cx="579"
-          cy="522"
-          r="1.2"
+          cx="300"
+          cy="1177"
+          r="1.8"
           fill="#7ee7ff"
           style="
-            --dur:6.4s;
-            --peak:0.34;
-            animation-delay:5.4s;
+            --dur:5.5s;
+            --peak:0.51;
+            animation-delay:11.2s;
           "
         />
       
         <circle
           class="particle"
-          cx="780"
-          cy="724"
-          r="1.0"
+          cx="45"
+          cy="147"
+          r="2.0"
           fill="#e8c8ff"
           style="
-            --dur:5.3s;
-            --peak:0.26;
-            animation-delay:6.8s;
+            --dur:9.6s;
+            --peak:0.45;
+            animation-delay:2.2s;
+          "
+        />
+      
+        <circle
+          class="particle"
+          cx="209"
+          cy="603"
+          r="1.1"
+          fill="#ff88cc"
+          style="
+            --dur:10.8s;
+            --peak:0.46;
+            animation-delay:1.8s;
+          "
+        />
+      
+        <circle
+          class="particle"
+          cx="525"
+          cy="335"
+          r="1.5"
+          fill="#ffffff"
+          style="
+            --dur:6.0s;
+            --peak:0.42;
+            animation-delay:0.0s;
+          "
+        />
+      
+        <circle
+          class="particle"
+          cx="73"
+          cy="751"
+          r="0.9"
+          fill="#7ee7ff"
+          style="
+            --dur:5.2s;
+            --peak:0.51;
+            animation-delay:11.3s;
+          "
+        />
+      
+        <circle
+          class="particle"
+          cx="659"
+          cy="680"
+          r="1.3"
+          fill="#e8c8ff"
+          style="
+            --dur:5.8s;
+            --peak:0.34;
+            animation-delay:11.2s;
           "
         />
       
@@ -1100,7 +1100,7 @@
             font-weight="900"
             fill="#ffffff"
           >
-            14
+            11
           </text>
 
           <text
@@ -1139,7 +1139,7 @@
             font-weight="900"
             fill="#ffffff"
           >
-            8
+            5
           </text>
 
           <text
@@ -1217,7 +1217,7 @@
             font-weight="900"
             fill="#ffffff"
           >
-            437
+            194
           </text>
 
           <text
@@ -1761,7 +1761,7 @@
           fill="rgba(232,200,255,0.65)"
           font-weight="700"
         >
-          1873
+          1880
           contributions
         </text>
 
@@ -5048,7 +5048,7 @@
             width="10"
             height="10"
             rx="2.5"
-            fill="rgba(126,231,255,0.95)"
+            fill="#ffffff"
           />
         
 
@@ -5234,7 +5234,7 @@
               font-weight="900"
               fill="#ffffff"
             >
-              CampusBot
+              Projecthub
             </text>
 
             
@@ -5246,7 +5246,7 @@
                 fill="rgba(190,190,220,0.8)"
                 font-weight="400"
               >
-                AI-powered campus helpdesk
+                ProjectHub is a web-based
               </text>
             
               <text
@@ -5257,7 +5257,7 @@
                 fill="rgba(190,190,220,0.8)"
                 font-weight="400"
               >
-                chatbot built for Brainware
+                collaboration platform
               </text>
             
               <text
@@ -5268,7 +5268,7 @@
                 fill="rgba(190,190,220,0.8)"
                 font-weight="400"
               >
-                AI Hackathon 2025 to
+                developed using the MERN
               </text>
             
 
@@ -5328,8 +5328,8 @@
                 fill="rgba(200,200,230,0.5)"
                 font-weight="600"
               >
-                ★ 3
-                ⑂ 3
+                ★ 2
+                ⑂ 0
               </text>
 
             </g>
@@ -5357,7 +5357,7 @@
               font-weight="900"
               fill="#ffffff"
             >
-              Projecthub
+              web
             </text>
 
             
@@ -5369,7 +5369,7 @@
                 fill="rgba(190,190,220,0.8)"
                 font-weight="400"
               >
-                ProjectHub is a web-based
+                GitHub project by Avinash
               </text>
             
               <text
@@ -5380,18 +5380,7 @@
                 fill="rgba(190,190,220,0.8)"
                 font-weight="400"
               >
-                collaboration platform
-              </text>
-            
-              <text
-                x="549"
-                y="1006"
-                font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif"
-                font-size="10"
-                fill="rgba(190,190,220,0.8)"
-                font-weight="400"
-              >
-                developed using the MERN
+                Mandal.
               </text>
             
 
@@ -5429,7 +5418,7 @@
                 font-weight="700"
                 fill="#ff88cc"
               >
-                JavaScript
+                TypeScript
               </text>
 
             </g>
@@ -5451,8 +5440,8 @@
                 fill="rgba(200,200,230,0.5)"
                 font-weight="600"
               >
-                ★ 2
-                ⑂ 0
+                ★ 1
+                ⑂ 1
               </text>
 
             </g>
